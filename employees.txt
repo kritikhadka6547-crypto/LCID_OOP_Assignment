@@ -1,0 +1,2 @@
+FULL,1,Mangala Devi Khadhka,60000.0
+PART,2,Kriti Khadka,20,1000.0
